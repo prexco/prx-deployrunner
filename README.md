@@ -1,2 +1,2 @@
-# prx-deployrunner
-DeployRunner - A customisable IT automation orchestration tool. 
+# DeployRunner
+DeployRunner - A customisable IT automation orchestration tool
